@@ -4,10 +4,10 @@ from twilio.rest import Client
 import cfg
 
 STOCK = "TSLA"
-COMPANY_NAME = "Teslasvagzsebgf"
+COMPANY_NAME = "Tesla"
 STOCKS_URL = "https://www.alphavantage.co/query"
 NEWS_URL = "http://newsapi.org/v2/everything"
-PERCENT_AMT = 1
+PERCENT_AMT = 5
 NUM_ARTICLES = 3
 NEWS_AGE = 5
 
